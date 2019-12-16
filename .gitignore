@@ -3,6 +3,8 @@
 .vs
 .vscode
 
+obj/
+
 Api1/bin/
 Api1/obj/
 Api2/bin/
